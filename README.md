@@ -8,3 +8,12 @@
 ## 实现
 
 - 一个OpenResty上的应用demo，lua代码实现
+
+# For Test
+```
+curl http://host/ -v -d'1234567-`-@'
+curl http://host/ -v 
+curl http://host/ -v -d'123'
+curl http://host/ -v -d @123.txt
+
+```
